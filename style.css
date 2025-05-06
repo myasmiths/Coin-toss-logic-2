@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f0f0f0;
+    background-color: #72b36a;
     margin: 0;
     padding: 20px;
 }
@@ -24,7 +24,7 @@ h1 {
 }
 
 button {
-    background-color: #007BFF;
+    background-color: #507195;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -35,7 +35,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #d982d3;
 }
 
 #result p {
